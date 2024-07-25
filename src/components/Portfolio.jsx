@@ -40,7 +40,7 @@ const Portfolio = () => {
       id: 5,
       src: ReduxCRUD,
       code: "https://github.com/anbumanigithub/Redux-crud",
-      demo: "https://github.com/anbumanigithub/Redux-crud",
+      demo: "https://anbucruddemo.netlify.app/",
       title: "Redux CRUD",
     },
     {

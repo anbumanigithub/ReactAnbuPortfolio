@@ -41,7 +41,7 @@ const Contact = () => {
         </div>
         <div className="flex flex-col justify-center items-center">
           <form
-            action="https://getform.io/f/wdLQMpej"
+            action="https://getform.io/f/aqonezra"
             method="POST"
             className="flex flex-col w-full md:w-1/2 "
           >
@@ -72,5 +72,4 @@ const Contact = () => {
     </div>
   );
 };
-
 export default Contact;
