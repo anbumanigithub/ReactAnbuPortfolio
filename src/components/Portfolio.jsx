@@ -26,14 +26,14 @@ const Portfolio = () => {
       id: 3,
       src: Crud,
       code: "https://github.com/anbumanigithub/mern-crud",
-      demo: "https://github.com/anbumanigithub/mern-crud",
+      demo: "https://merncruddemo.netlify.app/",
       title: "Mern crud",
     },
     {
       id: 4,
       src: PortfolioWeb,
-      code: "",
-      demo: "",
+      code: "https://github.com/anbumanigithub/ReactAnbuPortfolio",
+      demo: "https://reactanbuportfolio.netlify.app/",
       title: "Personal Website",
     },
     {
@@ -43,6 +43,7 @@ const Portfolio = () => {
       demo: "https://anbucruddemo.netlify.app/",
       title: "Redux CRUD",
     },
+
     {
       id: 6,
       src: SignupLogin,
