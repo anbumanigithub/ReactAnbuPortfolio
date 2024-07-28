@@ -33,11 +33,8 @@ const About = () => {
               Cricket
             </h3>
             <p className="text-lg text-gray-400 text-center md:text-left">
-              Strap on your boots and join me as we traverse rugged terrains and
-              conquer majestic peaks! Trekking isn't just a hobby for me - it's
-              a way of life. Whether I'm exploring lush forests or scaling
-              mountain passes, there's a sense of freedom and discovery that
-              only the great outdoors can offer.
+            First Prize in Indoor College Level Cricket.
+            Man of the Match: Captained the team, took three wickets, and scored 40 runs.
             </p>
           </div>
         </div>
@@ -54,10 +51,8 @@ const About = () => {
               Volleyball
             </h3>
             <p className="text-lg text-gray-400 text-center md:text-left">
-              Game on! When I'm not coding, I'm channeling my competitive spirit
-              on the kabaddi and handball courts. From intense showdowns to
-              strategic maneuvers, these sports fuel my passion for teamwork,
-              discipline, and pushing my limits. So, who's up for a match?
+            Awarded First Prize as the hitter and center of the volleyball team.
+            Captain and primary server, leading the team to victory.
             </p>
           </div>
         </div>
@@ -74,12 +69,7 @@ const About = () => {
               Throw ball
             </h3>
             <p className="text-lg text-gray-400 text-center md:text-left ">
-              Pounding pavements, chasing dreams! Lace up your shoes and hit the
-              ground running with me. Whether it's a leisurely jog through city
-              streets or a challenging trail run in the wilderness, every step
-              is a testament to resilience and determination. Join me as we
-              embrace the rhythm of the run and unleash our inner road warriors!
-              🏃‍♂️💨
+            In 12th grade, I led my school’s throw ball team to win first prize at the indoor school level as the hitter, center, captain, and main server. My leadership and skills were pivotal in securing our victory.
             </p>
           </div>
         </div>
@@ -96,10 +86,8 @@ const About = () => {
             Running
             </h3>
             <p className="text-lg text-gray-400 text-center md:text-left">
-              Game on! When I'm not coding, I'm channeling my competitive spirit
-              on the kabaddi and handball courts. From intense showdowns to
-              strategic maneuvers, these sports fuel my passion for teamwork,
-              discipline, and pushing my limits. So, who's up for a match?
+           
+Running is my passion and a vital part of my daily routine. It keeps me fit, focused, and energized. Whether it's a quick jog or a long-distance run, I embrace every stride as a step towards personal growth and well-being.
             </p>
           </div>
         </div>

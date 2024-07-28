@@ -16,17 +16,17 @@ const Contact = () => {
           <p className="py-6">Submit the form below to get in touch with me.</p>
         </div>
         <div className="flex flex-col sm:flex-row justify-center  pb-5 gap-0 sm:gap-10 items-center">
-          <div>
-            <a
-              href="tel:+919444481438"
-              className="flex justify-center items-center gap-2 text-gray-400 hover:scale-110 duration-300"
-            >
-              <span className="text-white">
-                <FaPhone />
-              </span>{" "}
-              +91-9444481438
-            </a>
-          </div>
+        <div>
+      <a
+        href="tel:+919444481438"
+        className="flex justify-center items-center gap-2 text-gray-400 hover:scale-110 duration-300"
+      >
+        <span className="text-white">
+          <FaPhone />
+        </span>
+        +91-9444481438
+      </a>
+    </div>
           <div>
             <a
               href="mailto:anbumani2512@gmail.com"
